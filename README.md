@@ -32,7 +32,7 @@ preserving task accuracy across all GLUE benchmark tasks.
 
 | Role | Name | Institution |
 |------|------|-------------|
-| Research Intern | Anirban Dey | — |
+| Research Intern | Anirban Dey | Kalinga Institute of Industrial Technology (KIIT) |
 | Research Supervisor | Dr. Devashree Tripathi | Indian Institute of Technology (IIT) Bhubaneswar |
 | Academic Mentor | Prof. Sugyan Kumar Mishra | SRM University-AP |
 
