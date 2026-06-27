@@ -96,9 +96,9 @@ preserving task accuracy across all GLUE benchmark tasks.
 
 ## Repository Structure
 SensiMix-GLUE-Benchmarking/
-├── README.md                      # Project overview and results
-├── sensimix_experiment.py         # Core implementation
-└── results
+├── README.md # Project overview and results
+├── sensimix_experiment.py # Core implementation
+└── Intern Results_Anirban Dey.xlsx/ # Output metrics and logs
 
 ---
 
